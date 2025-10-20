@@ -13,7 +13,7 @@ Los cálculos de los dos grupos de números se realizan de manera paralela.
 9) Gráfico lineal en el que se muestra la media de cada número y la distribución de este por mes
 10) Realización de secuencias aleatorias por mes escogiendo los 15 números que más salen por mes para los principales y aplicando aleatoriedad para las estrellas
 11) Conjunto de códigos para exportar a Excel las diferentes tablas
-Librerías usadas: pandas, numpy, matplot, seabron, random
+Librerías usadas: pandas, numpy, matplot, seaborn, random
 
 Próximamente:
 - Analizar si hay relación estdística entre columnas
