@@ -1,4 +1,4 @@
-# La-suerte-est-echada
+# La-suerte-esta-echada
 Esta es la primera fase de un proyecto que hace tiempo que tengo en mente, el cálculo de probabilidades de Euromillones.
 Para hacer el análisis se hace un recuento de los números principales de Euromillones (1 al 50) y de las estrellas (1 al 12). 
 Los cálculos de los dos grupos de números se realizan de manera paralela.
